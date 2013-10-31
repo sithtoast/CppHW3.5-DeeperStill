@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5056F98D50F1E5FDA05BE952"
+               BuildableName = "C++ HW Thing 3.5 - Deeper Still"
+               BlueprintName = "C++ HW Thing 3.5 - Deeper Still"
+               ReferencedContainer = "container:C++ HW Thing 3.5 - Deeper Still.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5056F98D50F1E5FDA05BE952"
+            BuildableName = "C++ HW Thing 3.5 - Deeper Still"
+            BlueprintName = "C++ HW Thing 3.5 - Deeper Still"
+            ReferencedContainer = "container:C++ HW Thing 3.5 - Deeper Still.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
